@@ -1,6 +1,6 @@
 
 public class Cow {
-	String name;
-	int age;
-	String type;
+	private String name;
+	private int age;
+	private String type;
 }
